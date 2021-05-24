@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 I am rahul , Web Developer. I ❤ Contributing to open Source.
 
 - 🔭 I’m currently working on  MERN-STACK.
@@ -8,8 +9,10 @@ I am rahul , Web Developer. I ❤ Contributing to open Source.
 [LinkedIn-@Rahul22rk](https://www.linkedin.com/in/rahul-gupta-343610193/) ,
 [Twitter-@RAHULGU10731707](https://twitter.com/RAHULGU10731707)
 - 😄 Pronouns: He/His
-- 
+
+
 ### SKILLS
+
 - HTML/CSS
 - JavaScript
 - c++
@@ -21,6 +24,7 @@ I am rahul , Web Developer. I ❤ Contributing to open Source.
 ### GITHUB STATS
 
 ![Rahul's Stats](https://github-readme-stats.vercel.app/api?username=rahul22nrp&count_private=true&show_icons=true&theme=radical)
+
 
 ### TOP Languages
 
