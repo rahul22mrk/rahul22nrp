@@ -24,11 +24,11 @@ I am rahul , Web Developer. I ❤ Contributing to open Source.
 ### GITHUB STATS
 
 
-![Rahul's Stats](https://github-readme-stats.vercel.app/api?username=rahul22nrp&count_private=true&show_icons=true&theme=radical)
+![Rahul's Stats](https://github-readme-stats.vercel.app/api?username=rahul22nrp&count_private=true&show_icons=true&theme=radical/)
 
 
 ### TOP Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul22nrp&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul22nrp&show_icons=true&theme=radical/)
 
 
